@@ -97,7 +97,7 @@ This project implements a simple **medallion (Bronze → Silver → Gold) archit
 
 The repository includes a visual lineage graph showing model relationships and flow between medallion layers.
 
-![Lineage graph](images/unnamed (1).png)
+![Lineage graph](images/lineage-graph.png)
 
 > Tip: Run `dbt docs generate` then `dbt docs serve` to see an interactive lineage graph and inspect model descriptions.
 
